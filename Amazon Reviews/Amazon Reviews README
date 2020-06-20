@@ -1,0 +1,6 @@
+This is my first attempt to NLP on a textual dataset. I attempted to build a model to predict a text whether
+it is a negative reviews (rating from 1 to 3) or a positive review (rating from 4 and 5). I have achieved a
+89% accuracy according to the classification report I have produced.
+
+Dataset source:
+https://www.kaggle.com/eswarchandt/amazon-music-reviews
